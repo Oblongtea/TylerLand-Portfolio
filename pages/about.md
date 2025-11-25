@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about
 ---
-Pursuing a passion for Learning, Innovation, and Excellence
+**Pursuing a passion for Learning, Innovation, and Excellence
 
 My name is Tyler Aaron Land, and I am a junior undergraduate pursuing a Bachelor’s degree in Mechanical Engineering at the University of California, Irvine.
 
